@@ -2,6 +2,10 @@ Simple Calculator App 📱➕➖✖️➗
 
 This is a basic calculator app developed using Kotlin and Android Studio.
 
+📥 Download APK
+----------------------------------------------------------
+[![Download APK](https://img.shields.io/badge/Download-APK-blue.svg)](https://github.com/ESLAMIKIA/Calculator-APK/releases/download/Calculator/app-release.apk)
+
 📌 Features
 ---------------------------------------------------------
 
