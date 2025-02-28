@@ -34,7 +34,6 @@ This is a basic calculator app developed using Kotlin and Android Studio.
 
 📷 Screenshots
 ----------------------------------------------------------------------------------------
-
 ![Screenshot_20250228_162438](https://github.com/user-attachments/assets/90298170-b3f1-4e2b-9512-37fb1661bd3d)
 
 Contributions are welcome! Feel free to submit a pull request.
